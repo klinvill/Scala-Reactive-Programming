@@ -1,0 +1,17 @@
+[0m[[0minfo[0m] [0mFast optimizing /Users/Kirby/Desktop/Reactive Programming/assignments/week 2/calculator/web-ui/target/scala-2.11/webui-fastopt.js[0m
+[0m[[0mdebug[0m] [0mLinker: Read info: 41844 us[0m
+[0m[[0mdebug[0m] [0mLinker: Compute reachability: 87422 us[0m
+[0m[[0mdebug[0m] [0mLinker: Assemble LinkedClasses: 321212 us[0m
+[0m[[0mdebug[0m] [0mLinker: cache stats: reused: 3461 -- invalidated: 15 -- trees read: 9[0m
+[0m[[0mdebug[0m] [0mLinker: 456271 us[0m
+[0m[[0mdebug[0m] [0mInc. optimizer: Batch mode: false[0m
+[0m[[0mdebug[0m] [0mInc. optimizer: Incremental part: 22435 us[0m
+[0m[[0mdebug[0m] [0mInc. optimizer: Optimizing 20 methods.[0m
+[0m[[0mdebug[0m] [0mInc. optimizer: Optimizer part: 4477 us[0m
+[0m[[0mdebug[0m] [0mInc. optimizer: 30388 us[0m
+[0m[[0mdebug[0m] [0mRefiner: Compute reachability: 34276 us[0m
+[0m[[0mdebug[0m] [0mRefiner: Assemble LinkedClasses: 4789 us[0m
+[0m[[0mdebug[0m] [0mRefiner: 39209 us[0m
+[0m[[0mdebug[0m] [0mEmitter: Class tree cache stats: reused: 375 -- invalidated: 9[0m
+[0m[[0mdebug[0m] [0mEmitter: Method tree cache stats: resued: 2038 -- invalidated: 20[0m
+[0m[[0mdebug[0m] [0mEmitter (write output): 84860 us[0m
